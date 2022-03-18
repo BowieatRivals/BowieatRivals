@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bowie</h1>
 <h3 align="center">A passionate Minecraft organization owner from Hungary, with little to no coding experience.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bowieatrivals&label=Profile%20views&color=0e75b6&style=flat" alt="bowieatrivals" /> </p>
-
 - 🔭 I’m currently working on [RivalsNetwork](rivalsnetwork.hu)
 
 - 🌱 I'm currently learning **Figma**
